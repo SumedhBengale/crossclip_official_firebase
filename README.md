@@ -9,3 +9,5 @@ I hope to use WSL on Windows to run the Android App on Windows.
 Hoping to add Linux, MacOS and iOS support sometime in the future.
 
 New changes will go into the beta branch first.
+
+FILE SHARING DOES NOT WORK IN THIS VERSION
